@@ -65,7 +65,7 @@ email: 'sunkyoung_park@korea.ac.kr'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Co-Editors
+  - Co-Directors
 ---
 
 박선경 교수는 젠더정치연구회의 연구 책임자입니다. 
