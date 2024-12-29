@@ -1,33 +1,34 @@
 ---
 # Display name
-title: 박선경
+title: 차현진
 
 # Full name (for SEO)
-first_name: 박
-last_name: 선경
+first_name: 차
+last_name: 현진
 
 # Username (this should match the folder name)
 authors:
-  - 박선경
+  - 차현진
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 고려대학교 글로벌한국융합학부 부교수
+role: 공동 연구원
 
 # Organizations/Affiliations
 organizations:
-  - name: Korea University
+  - name: 한국교통대학교
     url: 'https://www.korea.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 박선경 교수는 젠더정치연구회의 연구책임자입니다.
+bio: 한국교통대학교 교양학부 조교수
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 비교정치
+  - 정치행태
+  - 갈등정치
+  - 사회운동
 
 education:
   courses:

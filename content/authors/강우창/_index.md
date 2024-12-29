@@ -14,15 +14,14 @@ authors:
 superuser: true
 
 # Role/position
-role: 고려대학교 정치외교학과 부교수
+role: 공동 연구원
 
 # Organizations/Affiliations
 organizations:
-  - name: Korea University
-    url: 'https://www.korea.edu/'
+  - name: 고려대학교 정치외교학과 부교수
 
 # Short bio (displayed in user profile at end of posts)
-bio: 개인 웹사이트는 [여기](https://woochangkang-personal-website.com)에서 확인하실 수 있습니다.
+bio: "개인 웹사이트: https://woochangkang-personal-website.com"
 
 interests:
   - 미국정치

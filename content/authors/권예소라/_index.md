@@ -1,33 +1,33 @@
 ---
 # Display name
-title: 박선경
+title: 권예소라
 
 # Full name (for SEO)
-first_name: 박
-last_name: 선경
+first_name: 권
+last_name: 예소라
 
 # Username (this should match the folder name)
 authors:
-  - 박선경
+  - 권예소라
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 고려대학교 글로벌한국융합학부 부교수
+role: 공동 연구원
 
 # Organizations/Affiliations
 organizations:
-  - name: Korea University
-    url: 'https://www.korea.edu/'
+  - name: 성균관대학교
 
 # Short bio (displayed in user profile at end of posts)
-bio: 박선경 교수는 젠더정치연구회의 연구책임자입니다.
+bio: 성균관대학교 정치외교학과 조교수
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 비교정치
+  - 정치경제
+  - 정치행태
+  - 사회경제적 불평등
 
 education:
   courses:
@@ -48,10 +48,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'sunkyoung_park@korea.ac.kr'
+    link: 'mailto:yesola.kweon@skku.edu'
   - icon: window
-    icon_pack: hero
-    link: https://sites.google.com/site/sunkyoungpark12
+    icon_pack: 
+    link: 'https://yesolakweon.github.io/'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -68,4 +68,3 @@ user_groups:
   - Co-Directors
 ---
 
-박선경 교수는 젠더정치연구회의 연구 책임자입니다. 

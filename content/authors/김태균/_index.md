@@ -1,33 +1,35 @@
 ---
 # Display name
-title: 박선경
+title: 김태균
 
 # Full name (for SEO)
-first_name: 박
-last_name: 선경
+first_name: 김
+last_name: 태균
 
 # Username (this should match the folder name)
 authors:
-  - 박선경
+  - 김태균
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 고려대학교 글로벌한국융합학부 부교수
+role: 공동 연구원
 
 # Organizations/Affiliations
 organizations:
-  - name: Korea University
-    url: 'https://www.korea.edu/'
+  - name: KAIST 디지털인문사회과학부 조교수
 
 # Short bio (displayed in user profile at end of posts)
-bio: 박선경 교수는 젠더정치연구회의 연구책임자입니다.
+bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 디지털 정치, 정치 커뮤니케이션, 정치와 과학
+  - 미국정치
+  - 계산사회과학
+
+contact:
+  - taegyoon@kaist.ac.kr
 
 education:
   courses:
