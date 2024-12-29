@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 박선경
+title: 강우창
 
 # Full name (for SEO)
-first_name: 박
-last_name: 선경
+first_name: 강
+last_name: 우창
 
 # Username (this should match the folder name)
 authors:
-  - 박선경
+  - 강우창
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 고려대학교 국제대학 글로벌한국융합학부 부교수
+role: 고려대학교 정치외교학과 부교수
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,13 @@ organizations:
     url: 'https://www.korea.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 박선경 교수는 젠더정치연구회의 연구책임자입니다.
+bio: 개인 웹사이트는 [여기](https://woochangkang-personal-website.com)에서 확인하실 수 있습니다.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 미국정치
+  - 정치행동
+  - 한국정치
+  - 양적방법론
 
 education:
   courses:
@@ -48,10 +49,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'sunkyoung_park@korea.ac.kr'
+    link: 'woochang_kang@korea.ac.kr'
   - icon: window
     icon_pack: hero
-    link: https://sites.google.com/site/sunkyoungpark12
+    link: 'https://woochangkang.wordpress.com'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -60,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'sunkyoung_park@korea.ac.kr'
+email: 'woochang_kang@korea.ac.kr'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,4 +69,3 @@ user_groups:
   - Co-Directors
 ---
 
-박선경 교수는 젠더정치연구회의 연구 책임자입니다. 
