@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: 박선경
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: 박
+last_name: 선경
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 박선경
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 고려대학교 국제대학 글로벌한국융합학부 부교수
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Korea University
+    url: 'https://www.korea.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 박선경 교수는 젠더정치연구회의 연구책임자입니다.
 
 interests:
   - Artificial Intelligence
@@ -48,16 +48,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'sunkyoung_park@korea.ac.kr'
+  - icon: window
+    icon_pack: hero
+    link: https://sites.google.com/site/sunkyoungpark12
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,15 +60,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'sunkyoung_park@korea.ac.kr'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Co-Editors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+박선경 교수는 젠더정치연구회의 연구 책임자입니다. 
