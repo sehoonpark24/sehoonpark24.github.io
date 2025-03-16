@@ -1,0 +1,17 @@
+// 강연 페이지의 텍스트 크기 조절
+.lecture-content {
+  h2 {
+    font-size: 1.2rem;  // 섹션 제목 크기
+    margin-top: 1rem;
+    margin-bottom: 0.8rem;
+  }
+  
+  p, li {
+    font-size: 0.9rem;  // 일반 텍스트 크기
+    line-height: 1.4;
+  }
+  
+  strong {
+    font-size: 0.9rem;  // 볼드 텍스트 크기
+  }
+} 

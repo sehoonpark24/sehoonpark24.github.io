@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 연구성과
 
 # Listing view
 view: citation
